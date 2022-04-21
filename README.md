@@ -1,5 +1,6 @@
 ## hosint-web
 - Tool for get information about website
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## How to run 🖥️️
 1. Clone the repo
